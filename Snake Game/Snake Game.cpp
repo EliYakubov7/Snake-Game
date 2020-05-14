@@ -171,8 +171,13 @@ void Logic()
 
 	}
 
-	//if (x > width || x < 0 || y > height || y < 0) with limits
+	//With Limits
+
+	//if (x > width || x < 0 || y > height || y < 0) 
 		//GameOver = true;
+
+
+	//WithOut Limits
 
 	if (x >= width)
 		x = 0;
@@ -202,7 +207,7 @@ void Logic()
 
 }
 
-void fullscreen()
+void FullScreen()
 {
 	keybd_event(VK_MENU, 0x38, 0, 0);
 	keybd_event(VK_RETURN, 0x1c, 0, 0);
@@ -214,7 +219,7 @@ void fullscreen()
 int main()
 {
 	Setup();
-	fullscreen();
+	FullScreen();
 
 	while (!GameOver)
 	{
