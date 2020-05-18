@@ -1,9 +1,8 @@
 # Snake-Game
-Snake Game
+This is a simple snake game
 
 ## About the game:
 
-- This is a simple snake game
 - The F on the screen symbol a fruit and you need eat it (You get 10 score)
 - Every time you eat the fruit, the tail will increase in one
 - The game not contains a limits. You can move through the wall
