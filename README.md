@@ -3,7 +3,7 @@ This is a simple snake game
 
 ## About the game:
 
-- The Zero is a head of the snake
+- The 0 is a head of the snake
 - The F is a sign to fruit and you need eat it (You get 10 score)
 - Every time you eat the fruit, the tail will increase in one
 - The game not contains a limits. You can move through the wall
