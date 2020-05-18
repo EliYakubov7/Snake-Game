@@ -11,7 +11,7 @@ This is a simple snake game
 - you can pause the game (P) and quit of game (Q)
 
 ### Console Application
-<img src="https://github.com/EliYakubov7/Snake-Game/blob/master/screenshots/snake_game.png" width="250">  <img src="https://github.com/EliYakubov7/Hamburger-Order/blob/master/screenshots/order_activity.jpg" width="250">
+<img src="https://github.com/EliYakubov7/Snake-Game/blob/master/screenshots/snake_game.png" height="250" width="250">
 
 ## Author
 
