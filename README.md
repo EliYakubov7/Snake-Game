@@ -6,7 +6,7 @@ This is a simple snake game
 - The 0 is a head of the snake
 - The F is a sign to fruit and you need eat it (You get 10 score)
 - Every time you eat the fruit, the tail will increase in one
-- The game not contains a limits. You can move through the wall
+- The game not contains a limits. You can move through the walls
 - If you encounter the serpent's tail, then you will be disqualified and the game is automatically closed
 - You move with keys (W = Up , A = Left , S = Down , D = Right)
 - you can pause the game (P) and quit of game (Q)
